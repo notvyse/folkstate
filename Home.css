@@ -140,10 +140,16 @@ ul.menu {
   width: 70%;
   padding: 1% 2%;
 }
-
-.banner-text-item input,
-.banner-text-item .date,
-.banner-text-item .book {
+.banner-text-item input{
+padding: 15px;
+margin-right: 10px;
+font-size: 18px;
+font-family: Roboto;
+border-radius: 5px;
+outline: 0;
+border: none;
+}
+.date-book {
   padding: 15px;
   margin-right: 10px;
   font-size: 18px;
@@ -656,7 +662,6 @@ ul.menu {
     position: relative;
     display: flex;
     flex-flow: column wrap;
-    justify-content: center;
-    align-items: center;
+    align-items: left;
   }
 }
