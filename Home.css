@@ -122,11 +122,11 @@ ul.menu {
   flex: 1;
 }
 
-.banner-heading h1 {
-  font-size: 100px;
+.banner-heading h6 {
+  font-size: 50px;
   font-weight: normal;
   color: #fde02f;
-  font-family: Satisfy;
+  font-family: serif;
 }
 
 .banner-text-item .form {
