@@ -12,7 +12,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(https://img.freepik.com/premium-vector/tourist-set-travel-around-world_24797-1007.jpg?w=1380);
+  background-image: url(Images/StockSnap_NPCFR4GDNF.jpg);
 }
 .container{
   width: 85%;
@@ -20,6 +20,7 @@ body{
   border-radius: 6px;
   padding: 20px 60px 30px 40px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  opacity: 0.85;
 }
 .container .content{
   display: flex;
