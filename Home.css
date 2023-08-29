@@ -633,6 +633,9 @@ border: none;
   .about-img {
     flex: 1;
     margin-bottom: 20px;
+    width: 300px;
+    height: 500px;
+
   }
 
   .about-text {
@@ -650,8 +653,8 @@ border: none;
   }
 
   .about-img img {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 500px;
   }
 }
 
